@@ -29,3 +29,19 @@ Jeder Skill-Ordner enthält seine eigene Lizenz und ggf. einen Herkunftshinweis,
 ## Über KI-Wissen.org
 
 [KI-Wissen.org](https://ki-wissen.org) hilft kleinen Betrieben und Selbstständigen ohne IT-Abteilung dabei, KI im Alltag sinnvoll einzusetzen — mit kostenlosen Anleitungen, einem YouTube-Kanal und einem Marktplatz für geprüfte KI-Expert:innen. Fragen oder Wünsche zu weiteren Skills? Einfach ein [Issue](../../issues) aufmachen oder den [Newsletter „KI-Kompass"](https://ki-wissen.org) abonnieren.
+
+## Haftungsausschluss & Rechtliche Hinweise / Disclaimer
+
+### Inoffizielles Projekt
+
+Dies ist ein inoffizielles Community-Projekt von KI-Wissen.org. Es steht in keiner Verbindung zu Anthropic PBC, wird von Anthropic weder unterstützt noch gesponsert. „Claude" und „Model Context Protocol" sind Marken von Anthropic.
+
+### Haftungsausschluss (Disclaimer)
+
+Die Nutzung dieser Skills erfolgt auf eigene Verantwortung. Sie werden „wie besehen" (as is) ohne jegliche Gewährleistung für Funktionalität, Vollständigkeit oder Richtigkeit bereitgestellt. Der Autor haftet nicht für Schäden, Datenverluste oder sonstige Folgen, die aus der Nutzung entstehen.
+
+---
+
+### Disclaimer (English)
+
+This is an unofficial community project by KI-Wissen.org and is not affiliated with, endorsed by, or sponsored by Anthropic PBC. Use these skills at your own risk. Provided "AS IS" without warranty of any kind.
