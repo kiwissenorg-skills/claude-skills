@@ -1,6 +1,6 @@
 # Rechnungen organisieren — ein Claude Skill
 
-Automatisiert das Aufräumen von Rechnungsordnern: liest eingehende Rechnungen und Belege aus, benennt sie einheitlich (`JJJJ-MM-TT Anbieter - Rechnung - Leistung.pdf`) und sortiert sie in Jahresordner mit klarer Trennung zwischen `Unsortiert/` und `Bearbeitet/` — inklusive einer zentralen, dauerhaft aktualisierten Excel-Übersicht (`Rechnungsuebersicht.xlsx`) für die Buchhaltung.
+Automatisiert das Aufräumen von Rechnungsordnern: liest eingehende Rechnungen und Belege aus und legt pro Beleg zwei Dateien an — das unveränderte **Original** (in `Originalrechnungen/`) und eine einheitlich benannte **Kopie** (`JJJJ-MM-TT Anbieter - Rechnung - Leistung.pdf`, in `Rechnungen sortiert/`). Sortiert nach Jahresordnern mit klarer Trennung zwischen `Unsortiert/`, `Originalrechnungen/` und `Rechnungen sortiert/` — inklusive einer zentralen, dauerhaft aktualisierten Excel-Übersicht (`Rechnungsuebersicht.xlsx`) für die Buchhaltung.
 
 Ein kostenloser Skill von [KI-Wissen.org](https://ki-wissen.org) — Teil der Reihe "Buchhaltung mit Claude automatisieren". Die dazugehörige Video-Anleitung (Schritt-für-Schritt-Einrichtung und Praxisbeispiel) findest du unter [ki-wissen.org/anleitungen/buchhaltung](https://ki-wissen.org/anleitungen/buchhaltung/).
 
