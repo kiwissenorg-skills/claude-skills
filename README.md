@@ -16,7 +16,7 @@ Ein Skill ist eine Sammlung aus Anleitung (`SKILL.md`) und optionalen Zusatzdate
 
 | Skill | Beschreibung | Anleitung |
 |---|---|---|
-| [rechnungen-organisieren](skills/rechnungen-organisieren) | Räumt einen unordentlichen Rechnungsordner auf: einheitlich benannt, in Jahresordner sortiert, mit zentraler Excel-Übersicht für die Buchhaltung. | [Video-Anleitung](https://ki-wissen.org/anleitungen/buchhaltung/) |
+| [rechnungen-organisieren](skills/rechnungen-organisieren) | Räumt einen unordentlichen Rechnungsordner auf: einheitlich benannt, in Jahresordner sortiert, mit zentraler Excel-Übersicht für die Buchhaltung. | [Video-Anleitung](https://ki-wissen.org/ki-anleitungen/rechnungen-organisieren/) |
 
 ## Installation
 
