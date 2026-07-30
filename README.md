@@ -1,5 +1,9 @@
 # Claude Skills von KI-Wissen.org
 
+[![Lizenz: Apache 2.0](https://img.shields.io/badge/Lizenz-Apache%202.0-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/kiwissenorg-skills/claude-skills?style=social)](https://github.com/kiwissenorg-skills/claude-skills/stargazers)
+![Sprache: Deutsch](https://img.shields.io/badge/Sprache-Deutsch-black)
+
 Fertige, deutschsprachige [Claude Skills](https://www.anthropic.com/news/skills) zum kostenlosen Download — praxiserprobt, dokumentiert und mit passender Video-Anleitung auf [KI-Wissen.org](https://ki-wissen.org).
 
 Diese Sammlung wächst laufend. Jeder Skill hier wurde erst selbst im Alltag genutzt, bevor er veröffentlicht wurde.
@@ -28,7 +32,11 @@ Jeder Skill-Ordner enthält seine eigene Lizenz und ggf. einen Herkunftshinweis,
 
 ## Über KI-Wissen.org
 
-[KI-Wissen.org](https://ki-wissen.org) hilft kleinen Betrieben und Selbstständigen ohne IT-Abteilung dabei, KI im Alltag sinnvoll einzusetzen — mit kostenlosen Anleitungen, einem YouTube-Kanal und einem Marktplatz für geprüfte KI-Expert:innen. Fragen oder Wünsche zu weiteren Skills? Einfach ein [Issue](../../issues) aufmachen oder den [Newsletter „KI-Kompass"](https://ki-wissen.org) abonnieren.
+[KI-Wissen.org](https://ki-wissen.org) hilft kleinen Betrieben und Selbstständigen ohne IT-Abteilung dabei, KI im Alltag sinnvoll einzusetzen — mit kostenlosen Anleitungen, einem YouTube-Kanal und einem Marktplatz für geprüfte KI-Fachleute. Fragen oder Wünsche zu weiteren Skills? Einfach ein [Issue](../../issues) aufmachen oder den [Newsletter „KI-Kompass"](https://ki-wissen.org/newsletter/) abonnieren.
+
+## Mitmachen
+
+Fehler gefunden, ein Skill funktioniert nicht wie beschrieben, oder du wünschst dir einen neuen Skill? Siehe [CONTRIBUTING.md](CONTRIBUTING.md). Für den Umgang miteinander gilt unser [Code of Conduct](CODE_OF_CONDUCT.md), Sicherheitsprobleme bitte gemäß [SECURITY.md](SECURITY.md) melden.
 
 ## Haftungsausschluss & Rechtliche Hinweise / Disclaimer
 
