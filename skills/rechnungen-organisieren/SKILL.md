@@ -2,6 +2,9 @@
 name: rechnungen-organisieren
 description: Sortiert und benennt eingehende Rechnungen und Belege automatisch für die deutsche Buchhaltung — liest unordentliche Rechnungsordner aus, erkennt Anbieter, Rechnungsnummer, Datum und Betrag, benennt eine Kopie einheitlich und sortiert sie in saubere Ordner, während die Originaldatei unverändert erhalten bleibt. Nutze diesen Skill IMMER, wenn jemand Rechnungen automatisch benennen, einsortieren, aufräumen oder für die Buchhaltung/Steuerberater vorbereiten möchte. Trigger-Begriffe: "Rechnungen sortieren", "Rechnungen automatisch benennen", "Rechnungsordner aufräumen", "Belege einsortieren", "Rechnungen für die Buchhaltung vorbereiten", "organisiere meine Rechnungen", "räum meinen Rechnungsordner auf". NICHT triggern bei: Angebots- oder Rechnungserstellung (das Schreiben neuer Rechnungen), Steuerberatung oder Buchungssätzen.
 license: Apache-2.0
+metadata:
+  version: "1.2.1"
+  author: "Harald Frey"
 ---
 
 # Rechnungen organisieren
@@ -85,3 +88,6 @@ Rechnungen enthalten sensible Finanzdaten. Läuft der Skill lokal (z. B. über C
 ## Aufbewahrung (Hinweis, keine Rechtsberatung)
 
 In Deutschland müssen Rechnungen in der Regel 10 Jahre aufbewahrt werden (§ 14b UStG). Da dieser Skill die Originaldatei stets unverändert in `Originalrechnungen/` aufbewahrt, bleibt der ursprüngliche Beleg für die Aufbewahrungsfrist erhalten — der Skill ersetzt aber keine rechtssichere Archivierung; bei Unsicherheit den Steuerberater fragen.
+
+---
+*Ein Skill von KI-Wissen.org — Entwickler: Harald Frey · [ki-wissen.org](https://ki-wissen.org)*
