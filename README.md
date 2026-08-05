@@ -16,11 +16,17 @@ Ein Skill ist eine Sammlung aus Anleitung (`SKILL.md`) und optionalen Zusatzdate
 
 | Skill | Beschreibung | Anleitung |
 |---|---|---|
+| [hetzner-coolify-hermes](skills/hetzner-coolify-hermes) | Richtet auf einem Hetzner-Server vollautomatisch Coolify und den Hermes-Agenten ein und verbindet optional Subdomains via IONOS-DNS-API inkl. automatischem SSL. | [Video-Anleitung](https://ki-wissen.org/?post_type=ki-anleitungen&p=7664) |
+| [morgen-dashboard](skills/morgen-dashboard) | Erstellt ein kompaktes Tages-Dashboard als HTML-Datei mit Kalender, Aufgaben, Inbox, Wetter und News. | [Video-Anleitung](https://ki-wissen.org/ki-anleitungen/morgen/) |
+| [prozess-interview](skills/prozess-interview) | Interviewt dich Schritt für Schritt, um eine Idee oder ein Vorhaben sauber zu durchdenken, bevor etwas gebaut wird — Ergebnis ist ein strukturierter Prozess-Steckbrief. | [Video-Anleitung](https://ki-wissen.org/?post_type=ki-anleitungen&p=7784) |
 | [rechnungen-organisieren](skills/rechnungen-organisieren) | Räumt einen unordentlichen Rechnungsordner auf: einheitlich benannt, in Jahresordner sortiert, mit zentraler Excel-Übersicht für die Buchhaltung. | [Video-Anleitung](https://ki-wissen.org/ki-anleitungen/rechnungen-organisieren/) |
+| [schreibe-in-meinem-stil](skills/schreibe-in-meinem-stil) | Schreibt Texte im persönlichen Schreibstil des Nutzers und entfernt zugleich typische Spuren KI-generierter deutscher Texte. | [Video-Anleitung](https://ki-wissen.org/ki-anleitungen/skill/) |
+| [skill-center](skills/skill-center) | Kommandozentrale für professionelle Skill-Entwicklung: Auswerten, Überarbeiten, Testen, Dokumentieren, Versionieren und Ausliefern von Skills. | – |
+| [verblenden-skill](skills/verblenden-skill) | Anonymisiert (verblendet) personenbezogene Daten in Dokumenten und stellt sie bei Bedarf wieder her (entblendet) — Mapping bleibt lokal. | [Video-Anleitung](https://ki-wissen.org/ki-anleitungen/persoenliche-daten-automatisch/) |
 
 ## Installation
 
-1. Ordner des gewünschten Skills öffnen (z. B. [`skills/rechnungen-organisieren`](skills/rechnungen-organisieren)) und `SKILL.md` herunterladen.
+1. Ordner des gewünschten Skills öffnen (z. B. [`skills/rechnungen-organisieren`](skills/rechnungen-organisieren)) und `SKILL.md` herunterladen (bei Skills mit `references/`-Unterordner diesen ebenfalls mit herunterladen).
 2. In Claude (Cowork, Claude Code oder Claude Desktop) als eigenen Skill hinzufügen.
 3. Los — Claude nutzt den Skill automatisch, sobald die passende Aufgabe kommt.
 
