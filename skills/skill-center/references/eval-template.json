@@ -1,0 +1,30 @@
+{
+  "skill_name": "BEISPIEL-SKILL",
+  "version": "1.0.0",
+  "evals": [
+    {
+      "id": 1,
+      "art": "klarer Trigger-Fall",
+      "prompt": "Eine realistische Eingabe, bei der der Skill eindeutig auslösen soll.",
+      "soll_triggern": true,
+      "expect_contains": ["Bestandteil 1", "Bestandteil 2"],
+      "expect_format": "z.B. Tabelle / docx / Abschnitte mit Überschriften"
+    },
+    {
+      "id": 2,
+      "art": "Grenzfall",
+      "prompt": "Eine knappe oder unvollständige Eingabe, bei der der Skill trotzdem sinnvoll reagieren soll.",
+      "soll_triggern": true,
+      "expect_contains": ["Bestandteil 1"],
+      "expect_format": ""
+    },
+    {
+      "id": 3,
+      "art": "soll NICHT triggern",
+      "prompt": "Eine Eingabe aus einem benachbarten Thema, bei der dieser Skill NICHT auslösen soll.",
+      "soll_triggern": false,
+      "expect_contains": [],
+      "expect_format": ""
+    }
+  ]
+}
