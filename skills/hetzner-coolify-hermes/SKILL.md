@@ -1,13 +1,4 @@
 ---
-name: test
----
-
-# Test [link](http://example.com) `code` "quotes" 'single' {braces}
-
-```js
-function f() { return [1,2,3]; }
-```
----
 name: hetzner-coolify-hermes
 description: Installiert vollautomatisch einen Hetzner-Server mit Coolify und dem Hermes-Agenten (Agent + WebUI) und verbindet optional Subdomains via IONOS-DNS-API (inkl. automatischem Let's-Encrypt-SSL über Coolify). Die WebUI ist die einzige Oberfläche — kein zusätzliches Dashboard, keine dritte URL. Nutze diesen Skill IMMER wenn jemand Coolify, Hermes/Hermes-Agent, ein Self-Hosting-Setup oder einen Hetzner-Server aufsetzen will — auch bei Formulierungen wie "richte mir Coolify ein", "installier Hermes auf einem Server", "ich will einen eigenen Agenten hosten", "Coolify mit Domain", "Subdomain auf meinen Server verbinden", "Hetzner Server mit Coolify", "deploy hermes-agent-with-webui".
 ---
